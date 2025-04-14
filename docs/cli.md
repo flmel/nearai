@@ -49,6 +49,12 @@ Additionally, we recommend creating a virtual environment to avoid conflicts wit
     pip install nearai  # OR: python3 -m pip install nearai
     ```
 
+=== "uv"
+
+    ``` bash
+    uv pip install nearai
+    ```
+
 === "local"
 
     ``` bash
